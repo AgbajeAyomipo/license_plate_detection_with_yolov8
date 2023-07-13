@@ -1,0 +1,6 @@
+path: /content/drive/MyDrive/license_plates_detection
+train: images/train
+val: images/val
+
+names:
+  0: Number Plate
